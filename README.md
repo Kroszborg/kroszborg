@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhimanpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanpanwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhiman panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiman panwar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhiman-panwar-272aa7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiman panwar" height="30" width="40" /></a>
 <a href="https://kaggle.com/kroszborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kroszborg" height="30" width="40" /></a>
 <a href="https://instagram.com/kroszborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kroszborg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kroszborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kroszborg" height="30" width="40" /></a>
