@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Rust and Smart Contracts**
 
-- 👨‍💻 All of my projects are available at [https://kroszborg.vercel.app](https://kroszborg.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.kroszborg.co/](https://www.kroszborg.co/)
 
-- 📝 I regularly write articles on [https://kroszborg.vercel.app/blog](https://kroszborg.vercel.app/blog)
+- 📝 I regularly write articles on [https://www.kroszborg.co/blog](https://www.kroszborg.co/blog)
 
 - 💬 Ask me about **react, nextjs, tailwind**
 
 - 📫 How to reach me **abhimanpanwar6@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18EuzTLAPzAP0j0PJEHLZbPfQ72UNAYRJlA9bmzX_Skw/edit](https://docs.google.com/document/d/18EuzTLAPzAP0j0PJEHLZbPfQ72UNAYRJlA9bmzX_Skw/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vyy2-e_Fj9JhI5bLKmpdliicZTI85H2bTcdtDtoHxco/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am alive**
+- ⚡ Fun fact **The term "bug" for a software glitch originated in 1947 when engineers found a moth causing issues in a Harvard Mark II computer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
