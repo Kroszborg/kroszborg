@@ -21,15 +21,6 @@
 
 - ⚡ Fun fact **I think I am alive**
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kroszborg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kroszborg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kroszborg&" alt="kroszborg" /></p>
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhimanpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanpanwar" height="30" width="40" /></a>
@@ -50,8 +41,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kroszborg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kroszborg" /></a></p><br><br>
 
+
+###
+<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kroszborg&show_icons=true&locale=en&layout=compact" alt="kroszborg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kroszborg&show_icons=true&locale=en" alt="kroszborg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kroszborg&" alt="kroszborg" /></p>
+</div>
