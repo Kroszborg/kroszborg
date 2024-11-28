@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroszborg" alt="kroszborg" /></a> </p>
 
-- 🔭 I’m currently working on [BlockEstate](https://github.com/Kroszborg/blockestate)
+- 🔭 I’m currently working on Open-Source Projects
 
 - 🌱 I’m currently learning **Rust and Smart Contracts**
 
