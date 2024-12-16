@@ -24,7 +24,6 @@
 <a href="https://twitter.com/abhimanpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanpanwar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhiman-panwar-272aa7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiman panwar" height="30" width="40" /></a>
 <a href="https://instagram.com/kroszborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kroszborg" height="30" width="40" /></a>
-<a href="https://discord.gg/kroszborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kroszborg" height="30" width="40" /></a>
 </p>
 
 
