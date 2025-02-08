@@ -29,15 +29,15 @@
 
 ###
 <div align="left"> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kroszborg&show_icons=true&locale=en&layout=compact" alt="kroszborg" /></p>
+![kroszborg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kroszborg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </div>
   
 <div align="left"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kroszborg&show_icons=true&locale=en" alt="kroszborg" /></p>
+![kroszborg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kroszborg&theme=dracula&hide_border=false)
 </div>
 
 <div align="left"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kroszborg&" alt="kroszborg" /></p>
+![kroszborg's Stats](https://github-readme-stats.vercel.app/api?username=kroszborg&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
