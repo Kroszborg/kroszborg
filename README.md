@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kroszborg.co/](https://www.kroszborg.co/)
 
-- 📝 I regularly write articles on [https://www.kroszborg.co/](https://medium.com/@kroszborg)
 
 - 💬 Ask me about **react, nextjs, tailwind**
 
