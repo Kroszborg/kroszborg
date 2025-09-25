@@ -3,18 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kroszborg&label=Profile%20views&color=0e75b6&style=flat" alt="kroszborg" /> </p>
 
-- 🔭 I’m currently working on Open-Source Projects
 
-- 🌱 I’m currently learning **Rust and Smart Contracts**
-
-- 👨‍💻 All of my projects are available at [https://www.kroszborg.co/](https://www.kroszborg.co/)
-
-
-- 💬 Ask me about **react, nextjs, tailwind**
+- 👨‍💻 All of my projects are available at [https://www.kroszborg.co/](https://kroszborg.vercel.app/)
 
 - 📫 How to reach me **abhimanpanwar6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vyy2-e_Fj9JhI5bLKmpdliicZTI85H2bTcdtDtoHxco/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FHIRpFW-xvQDnWjCZzUMKO8mCrGkoDJH/view?usp=sharing)
 
 - ⚡ Fun fact **The term "bug" for a software glitch originated in 1947 when engineers found a moth causing issues in a Harvard Mark II computer.**
 
