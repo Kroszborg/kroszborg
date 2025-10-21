@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abhimanpanwar6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FHIRpFW-xvQDnWjCZzUMKO8mCrGkoDJH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.kroszborg.co/abhiman-resume.pdf)
 
 - ⚡ Fun fact **The term "bug" for a software glitch originated in 1947 when engineers found a moth causing issues in a Harvard Mark II computer.**
 
