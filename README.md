@@ -1,98 +1,93 @@
 
-<h1 align="center">Hi 👋, I'm Abhiman Panwar</h1>
-<h3 align="center">Frontend / Full-Stack Developer building scalable web, mobile, AI, and interactive frontend experiences.</h3>
+<h1 align="center">Hi, I'm Abhiman Panwar</h1>
+<h3 align="center">Full Stack Developer building web, mobile, 3D, and systems projects.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kroszborg&label=Profile%20views&color=0e75b6&style=flat" alt="kroszborg" /> </p>
 
 <p align="center">
   <a href="https://www.kroszborg.co/">Portfolio</a> •
   <a href="https://github.com/Kroszborg">GitHub</a> •
   <a href="https://www.linkedin.com/in/abhiman-panwar-272aa7228/">LinkedIn</a> •
-  <a href="https://x.com/kroszborgg">Twitter</a>
+  <a href="https://x.com/kroszborgg">Twitter</a> •
+  <a href="https://github.com/sponsors/Kroszborg">Sponsor</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a full-stack developer currently pursuing B.Tech in Information Technology at Manipal University Jaipur.
+I'm a Full Stack Developer currently pursuing B.Tech in Information Technology at Manipal University Jaipur.
 
-Over the past 2 years, I’ve worked across startups, internships, freelance projects, SaaS products, and production applications — building scalable frontend systems, AI-powered tools, React Native mobile apps, Electron desktop apps, and interactive web experiences.
+Over the past 2 years, I've worked across startups, internships, freelance projects, and SaaS products, building scalable frontend systems, AI-powered tools, React Native mobile apps, Electron desktop apps, and interactive web experiences.
 
-I enjoy building products with strong UI/UX, performance-focused architecture, and clean developer experience.
+I build production-ready applications with React, Next.js, TypeScript, Node.js, and Supabase. Recent work ranges from encrypted P2P file transfer and a from-scratch QR library to terminal tooling in Go and mobile apps shipped to Google Play. I especially enjoy 3D web experiences with Three.js and React Three Fiber.
 
-- 🔭 Currently working on AI-powered products, frontend systems, and interactive web experiences
-- 🌱 Learning advanced frontend architecture, system design, and scalable product engineering
-- 👯 Open to collaborating on AI, SaaS, and modern web projects
-- 💬 Ask me about React, Next.js, TypeScript, frontend architecture, animations, and product development
-- 📫 Reach me at: **abhimanpanwar6@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Framer Motion, GSAP, Three.js, React Three Fiber, React Native, Flutter  
-**Backend & APIs:** Node.js, Express.js, Django, GraphQL, REST APIs, Prisma ORM  
-**Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Firebase, Supabase  
-**Tools & Workflow:** Git, GitHub, Figma, Vercel, Postman, Electron.js, WebAssembly
+- Currently working on developer tools, libraries, and interactive web experiences
+- Learning systems programming, advanced frontend architecture, and scalable product engineering
+- Open to collaborating on AI, SaaS, open-source, and modern web projects
+- Ask me about React, Next.js, TypeScript, Three.js, Go, and product development
+- Reach me at: **abhimanpanwar6@gmail.com**
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-Worked across multiple startups and internships building:
-- SaaS dashboards
-- AI-powered platforms
-- React Native mobile apps
-- Electron desktop apps
-- eCommerce systems
-- Performance-focused frontend architecture
-
-Previously worked with:
-- CodeHelp
-- Bytehint
-- Astraea Solutions
-- Arkcore
-- TheWaiterCompany
+**Languages & Frontend:** TypeScript, JavaScript, Go, React, Next.js, Tailwind CSS, Framer Motion, GSAP, Three.js, React Three Fiber, React Native, Flutter
+**Backend & Systems:** Node.js, Bun, Express.js, Fastify, Django, GraphQL, REST APIs, WebRTC, WebAssembly, Prisma
+**Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Supabase, Redis, Firebase, Vercel
+**Tools & Workflow:** Git, GitHub, Figma, Postman, Electron, Vitest, Turborepo
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🌐 Portfolio
-🔗 https://www.kroszborg.co/
+- **Bytehint** · MERN Stack Intern, Remote (Nov 2025 - Feb 2026)
+- **CodeHelp** · Full Stack Developer Intern, Remote (Aug 2025 - Nov 2025)
+- **Astraea Solutions** · Product Tech Intern (Jun 2025 - Aug 2025)
+- **Arkcore** · Frontend Developer Intern (Apr 2025 - Aug 2025)
+- **The Waiter Company** · Frontend Developer Intern (Oct 2024 - Jul 2025)
 
-Personal portfolio showcasing selected frontend, AI, mobile, and interactive web projects.
-
----
-
-### ✨ ZAxis — 3D UI Components Library
-🔗 https://zaxis.kroszborg.co/
-
-Production-ready 3D UI component library built using React, Three.js, React Three Fiber, and TypeScript.
+Built SaaS dashboards, eCommerce systems, Electron desktop apps, React Native mobile apps, and performance-focused frontend architecture across startups and internships.
 
 ---
 
-### 🤖 LocalGov — AI Legal Explainer
-🔗 https://localgov.kroszborg.co/
+## Featured Projects
 
-AI-powered platform simplifying complex government/legal policies into plain language using OpenAI APIs.
+### Rune - Customizable QR Code Library
+https://rune.kroszborg.co
 
----
-
-### 🎬 MetaMorpher — Multimedia Conversion Tool
-🔗 https://metamorpher.kroszborg.co/
-
-Privacy-first multimedia converter running fully in-browser using FFmpeg.wasm and WebAssembly.
+Lightweight, framework-agnostic QR code library built from scratch per ISO/IEC 18004. Pure SVG with zero dependencies, React/Vue/Web Component adapters, a from-scratch decoder, and a CLI. Every style is proven scannable in CI.
+`TypeScript` `React` `Vue` `Web Components` `Turborepo`
 
 ---
 
-### 📱 GearOne Mobile App
-🔗 https://play.google.com/store/apps/details?id=com.gearon.gearonjaipur&hl=en_IN
+### Sugi - Terminal UI Git Client
+https://www.npmjs.com/package/@kroszborg/sugi
 
-Worked on React Native frontend systems and backend integrations for a production startup application.
+TUI git client written in Go, with GitHub/GitLab PR management, AI-assisted commit messages, interactive rebase, bisect, worktrees, and multi-account support.
+`Go` `Bubbletea` `Cobra` `GitHub API` `GitLab API`
 
 ---
-## 📈 GitHub Stats
+
+### Beam - Encrypted P2P File Transfer
+https://beam.kroszborg.co
+
+End-to-end encrypted, peer-to-peer file transfer. Files are encrypted in the browser and streamed directly between devices over WebRTC. The server is a blind relay that only brokers the handshake. No uploads, no accounts.
+`React` `TypeScript` `WebRTC` `Web Crypto API` `Fastify` `Redis`
+
+---
+
+### ZAxis - 3D UI Components Library
+https://zaxis.kroszborg.co
+
+Production-ready 3D UI components that drop into any React app, with real-time customization.
+`React` `Three.js` `React Three Fiber` `TypeScript` `Drei`
+
+---
+
+More projects (GearOne, LocalGov, MetaMorpher, LaunchKit) at [kroszborg.co/projects](https://www.kroszborg.co/projects)
+
+---
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kroszborg&theme=tokyonight&hide_border=true&background=0D1117" />
@@ -100,7 +95,7 @@ Worked on React Native frontend systems and backend integrations for a productio
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://x.com/kroszborgg" target="_blank">
@@ -122,4 +117,3 @@ Worked on React Native frontend systems and backend integrations for a productio
 <p align="center">
 Building products, learning fast, and shipping consistently.
 </p>
-
