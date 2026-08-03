@@ -19,7 +19,7 @@ I'm a Full Stack Developer currently pursuing B.Tech in Information Technology a
 
 Over the past 2 years, I've worked across startups, internships, freelance projects, and SaaS products, building scalable frontend systems, AI-powered tools, React Native mobile apps, Electron desktop apps, and interactive web experiences.
 
-I build production-ready applications with React, Next.js, TypeScript, Node.js, and Supabase. Recent work ranges from encrypted P2P file transfer and a from-scratch QR library to terminal tooling in Go and mobile apps shipped to Google Play. I especially enjoy 3D web experiences with Three.js and React Three Fiber.
+I build production-ready applications with React, Next.js, TypeScript, Node.js, and Supabase. Recent work ranges from encrypted P2P file transfer, a from-scratch QR library, and a lossless YouTube downloader CLI on npm to terminal tooling in Go and mobile apps shipped to Google Play. I especially enjoy 3D web experiences with Three.js and React Three Fiber.
 
 - Currently working on developer tools, libraries, and interactive web experiences
 - Learning systems programming, advanced frontend architecture, and scalable product engineering
@@ -76,22 +76,27 @@ End-to-end encrypted, peer-to-peer file transfer. Files are encrypted in the bro
 
 ---
 
-### MetaMorpher - Multimedia Conversion Tool
-https://metamorpher.kroszborg.co
+### KroszTube - YouTube Downloader CLI & Library
+https://krosztube.kroszborg.co
 
-Privacy-focused, client-side conversion tool for image, audio, and video formats. 700+ conversion types running fully in the browser with FFmpeg.wasm, so files never leave the device.
-`Next.js` `React` `TypeScript` `FFmpeg.wasm` `WebAssembly` `PWA`
+CLI and typed Node.js library that downloads YouTube videos in any quality without re-encoding, extracts MP3s, turns caption tracks into clean text transcripts, and streams video straight to the terminal - including ASCII-art playback. Auto-provisions pinned, checksum-verified yt-dlp and ffmpeg builds, so `npm install -g krosztube` is the whole setup. Published on [npm](https://www.npmjs.com/package/krosztube).
+`TypeScript` `Node.js` `FFmpeg` `yt-dlp` `Commander` `Vitest`
 
 ---
 
-More projects (GearOne, LocalGov, ZAxis, LaunchKit) at [kroszborg.co/projects](https://www.kroszborg.co/projects)
+More projects (MetaMorpher, GearOne, LocalGov, LaunchKit) at [kroszborg.co/projects](https://www.kroszborg.co/projects)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kroszborg&theme=tokyonight&hide_border=true&background=0D1117" />
+  <a href="https://github-stats-extended.vercel.app/api?username=Kroszborg&include_all_commits=true&theme=dark">
+    <img src="https://github-stats-extended.vercel.app/api?username=Kroszborg&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Kroszborg&langs_count=4&theme=dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kroszborg&langs_count=4&theme=dark" alt="Top Languages" />
+  </a>
 </p>
 
 ---
