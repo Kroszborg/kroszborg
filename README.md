@@ -31,10 +31,10 @@ I build production-ready applications with React, Next.js, TypeScript, Node.js, 
 
 ## Tech Stack
 
-**Languages & Frontend:** TypeScript, JavaScript, Go, React, Next.js, Tailwind CSS, Framer Motion, GSAP, Three.js, React Three Fiber, React Native, Flutter
-**Backend & Systems:** Node.js, Bun, Express.js, Fastify, Django, GraphQL, REST APIs, WebRTC, WebAssembly, Prisma
-**Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Supabase, Redis, Firebase, Vercel
-**Tools & Workflow:** Git, GitHub, Figma, Postman, Electron, Vitest, Turborepo
+- **Languages & Frontend:** TypeScript, JavaScript, Go, React, Next.js, Tailwind CSS, Framer Motion, GSAP, Three.js, React Three Fiber, React Native, Flutter
+- **Backend & Systems:** Node.js, Bun, Express.js, Fastify, Django, GraphQL, REST APIs, WebRTC, WebAssembly, Prisma
+- **Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Supabase, Redis, Firebase, Vercel
+- **Tools & Workflow:** Git, GitHub, Figma, Postman, Electron, Vitest, Turborepo
 
 ---
 
@@ -76,17 +76,18 @@ End-to-end encrypted, peer-to-peer file transfer. Files are encrypted in the bro
 
 ---
 
-### ZAxis - 3D UI Components Library
-https://zaxis.kroszborg.co
+### MetaMorpher - Multimedia Conversion Tool
+https://metamorpher.kroszborg.co
 
-Production-ready 3D UI components that drop into any React app, with real-time customization.
-`React` `Three.js` `React Three Fiber` `TypeScript` `Drei`
+Privacy-focused, client-side conversion tool for image, audio, and video formats. 700+ conversion types running fully in the browser with FFmpeg.wasm, so files never leave the device.
+`Next.js` `React` `TypeScript` `FFmpeg.wasm` `WebAssembly` `PWA`
+
+---
+
+More projects (GearOne, LocalGov, ZAxis, LaunchKit) at [kroszborg.co/projects](https://www.kroszborg.co/projects)
 
 ---
 
-More projects (GearOne, LocalGov, MetaMorpher, LaunchKit) at [kroszborg.co/projects](https://www.kroszborg.co/projects)
-
----
 ## GitHub Stats
 
 <p align="center">
